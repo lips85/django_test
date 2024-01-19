@@ -21,3 +21,10 @@
 >```zsh
 >exit
 >```
+
+# 2. oop
+
+>## 1. Encapsulation
+> 캡슐에 넣는다...
+>
+>## 2. Inhere
