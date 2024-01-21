@@ -34,6 +34,7 @@ CUSTOM_APPS = [
     "users.apps.UsersConfig",  # users 앱을 추가
     "rooms.apps.RoomsConfig",  # rooms 앱을 추가
     "common.apps.CommonConfig",  # common 앱을 추가
+    "experiences.apps.ExperiencesConfig",  # experiences 앱을 추가
 ]
 
 
