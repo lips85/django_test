@@ -31,7 +31,6 @@ ALLOWED_HOSTS = []
 # Application definition
 
 CUSTOM_APPS = [
-    "houses.apps.HousesConfig",  # houses 앱을 추가
     "users.apps.UsersConfig",  # users 앱을 추가
 ]
 
