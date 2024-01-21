@@ -56,6 +56,7 @@
 >
 >python .\manage.py createsuperuser  # 유저 만들기
 >python .\manage.py startapp houses  # house app 만들기
+>
 >python .\manage.py makemigrations   # house migration
 >python .\manage.py migrate          # migration 적용
 >```
